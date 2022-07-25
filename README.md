@@ -25,7 +25,7 @@
     default: OP
 ```
 ## >> Commands:
-```php
+```yaml
 - /parkour help
 - /parkour create
 - /parkour list
