@@ -2,7 +2,7 @@ name: Parkour
 main: parkour\ParkourMain
 version: 1.0.0
 api: ["4.5.1"]
-author: "vP3aZy"
+authors: ["vP3aZy", "Supercrafter333"]
 website: "https://github.com/vP3aZy"
 
 permissions:
